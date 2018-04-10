@@ -1,0 +1,10 @@
+/home/tony/temp/firstproj/obj/Debug/netcoreapp2.0/firstproj.csproj.CoreCompileInputs.cache
+/home/tony/temp/firstproj/obj/Debug/netcoreapp2.0/firstproj.AssemblyInfoInputs.cache
+/home/tony/temp/firstproj/obj/Debug/netcoreapp2.0/firstproj.AssemblyInfo.cs
+/home/tony/temp/firstproj/bin/Debug/netcoreapp2.0/firstproj.deps.json
+/home/tony/temp/firstproj/bin/Debug/netcoreapp2.0/firstproj.runtimeconfig.json
+/home/tony/temp/firstproj/bin/Debug/netcoreapp2.0/firstproj.runtimeconfig.dev.json
+/home/tony/temp/firstproj/bin/Debug/netcoreapp2.0/firstproj.dll
+/home/tony/temp/firstproj/bin/Debug/netcoreapp2.0/firstproj.pdb
+/home/tony/temp/firstproj/obj/Debug/netcoreapp2.0/firstproj.dll
+/home/tony/temp/firstproj/obj/Debug/netcoreapp2.0/firstproj.pdb
